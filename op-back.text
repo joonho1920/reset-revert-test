@@ -7,6 +7,7 @@ develop	fourth commit (after DOS-2468)
 develop fifth commit (after DOS-2471)
 develop sixth commit (after another-branch1)
 develop	seventh commit (after another-branch2)
+develop eighth commit (after merge all sub branches)
 
 DOS-2468 first commit
 
@@ -14,4 +15,4 @@ DOS-2471 first commit
 
 another-branch1 first commit
 
-another-branch2 first commit 
+another-branch2 first commit
