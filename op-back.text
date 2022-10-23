@@ -2,6 +2,21 @@ master commit
 
 develop first commit
 develop second commit
-develop thrid commit (after 1.9.0)
 
 1.9.1 first commit
+
+develop thrid commit (after 1.9.0) 
+develop	fourth commit (after DOS-2468)
+develop fifth commit (after DOS-2471)
+develop sixth commit (after another-branch1)
+develop	seventh commit (after another-branch2)
+develop eighth commit (after merge all sub branches)
+develop nineth commit
+
+DOS-2468 first commit
+
+DOS-2471 first commit
+
+another-branch1 first commit
+
+another-branch2 first commit
